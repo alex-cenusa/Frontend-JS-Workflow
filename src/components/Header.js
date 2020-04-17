@@ -1,8 +1,8 @@
 const HEADER = () => {
   const template = `
 		<header>
-        <h1>My parcel app</h1>
-        <p>this is a boilerplate for a simple js workflow</p>
+      <h1>Hangman</h1>
+      <p>Find the hidden word - Enter a letter</p>
 		</header>
 
     `;
